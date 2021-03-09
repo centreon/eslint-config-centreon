@@ -60,6 +60,7 @@ module.exports = {
         '@typescript-eslint/no-unused-expressions': ['error'],
         'no-unused-expressions': 'off',
         'react/require-default-props': 'off',
+        'no-shadow': 'off',
         '@typescript-eslint/no-shadow': 'error',
       },
     }
